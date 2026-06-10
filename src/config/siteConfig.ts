@@ -33,7 +33,7 @@ export const siteConfig: SiteConfig = {
     // 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
     mode: "text-icon",
     // 顶栏标题文本
-    text: "MizukiUI",
+    text: "MAEVAIL",
     // 顶栏标题图标路径，默认使用 public/assets/home/home.webp
     icon: "assets/home/home.webp",
     // 网站Logo图片路径
@@ -52,7 +52,7 @@ export const siteConfig: SiteConfig = {
   },
 
   bilibili: {
-    vmid: "your-bilibili-vmid", // 在此处设置你的Bilibili用户ID (uid)，例如 "1129280784"
+    vmid: "2103755207", // 在此处设置你的Bilibili用户ID (uid)，例如 "1129280784"
     fetchOnDev: false, // 是否在开发环境下获取 Bilibili 数据（默认 false）
     coverMirror: "", // 封面图片镜像源（可选，如果需要使用镜像源，例如 "https://images.weserv.nl/?url="）
     useWebp: true, // 是否使用WebP格式（默认 true）
@@ -147,16 +147,10 @@ export const siteConfig: SiteConfig = {
 
     homeText: {
       enable: true,
-      title: "わたしの部屋",
+      title: "Link The World",
       switchable: true,
 
-      subtitle: [
-        "特別なことはないけど、君がいると十分です",
-        "今でもあなたは私の光",
-        "君ってさ、知らないうちに私の毎日になってたよ",
-        "君と話すと、なんか毎日がちょっと楽しくなるんだ",
-        "今日はなんでもない日。でも、ちょっとだけいい日",
-      ],
+      subtitle: ["我想不到说什么了"],
       typewriter: {
         enable: true, // 启用副标题打字机效果
 
