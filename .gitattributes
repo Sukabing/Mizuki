@@ -1,2 +1,15 @@
+# 统一所有文本文件使用LF换行符
 * text=auto eol=lf
-*.js linguist-language=astro
+
+# 明确指定二进制文件，不进行换行符转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
