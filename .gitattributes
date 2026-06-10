@@ -1,7 +1,31 @@
-# 统一所有文本文件使用LF换行符
-* text=auto eol=lf
+# 核心规则：所有文本文件自动检测，仓库内统一为LF
+* text=auto
 
-# 明确指定二进制文件，不进行换行符转换
+# 明确指定文本文件类型（防止Git误判）
+*.md text
+*.ts text
+*.js text
+*.tsx text
+*.jsx text
+*.vue text
+*.css text
+*.scss text
+*.html text
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+*.sh text
+*.bash text
+*.gitignore text
+*.gitattributes text
+
+# 明确指定Windows批处理文件使用CRLF（特殊情况）
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# 所有二进制文件不做任何转换（防止损坏）
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -9,7 +33,6 @@
 *.ico binary
 *.svg binary
 *.pdf binary
-*.woff binary
-*.woff2 binary
-*.ttf binary
-*.eot binary
+*.zip binary
+*.tar binary
+*.gz binary
