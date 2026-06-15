@@ -1,6 +1,5 @@
 # 核心规则：所有文本文件自动检测，仓库内统一为LF
-* text=auto
-
+* text=auto eol=lf
 # 明确指定文本文件类型（防止Git误判）
 *.md text
 *.ts text
