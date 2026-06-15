@@ -18,6 +18,26 @@ export interface Skill {
 }
 
 export const skillsData: Skill[] = [
+  {
+    id: "eating",
+    name: "吃饭",
+    description: "会吃饭",
+    icon: "Logos:eating",
+    category: "other",
+    level: "advanced",
+    experience: { years: 7, months: 0 },
+    color: "#FF6B6B",
+  },
+  {
+    id: "sleeping",
+    name: "睡觉",
+    description: "会睡觉",
+    icon: "Logos:sleeping",
+    category: "other",
+    level: "advanced",
+    experience: { years: 12, months: 0 },
+    color: "#4ECDC4",
+  },
   // Frontend Skills
   // {
   // 	id: "javascript",
@@ -167,7 +187,6 @@ export const skillsData: Skill[] = [
   // 	projects: ["vue-project", "react-project"],
   // 	color: "#646CFF",
   // },
-
   // Backend Skills
   // {
   // 	id: "nodejs",
@@ -181,29 +200,29 @@ export const skillsData: Skill[] = [
   // 	projects: ["data-visualization-tool", "e-commerce-platform"],
   // 	color: "#339933",
   // },
-  {
-    id: "python",
-    name: "Python",
-    description:
-      "A general-purpose programming language suitable for web development, data analysis, machine learning, and more.",
-    icon: "logos:python",
-    category: "backend",
-    level: "intermediate",
-    experience: { years: 1, months: 10 },
-    color: "#3776AB",
-  },
-  {
-    id: "java",
-    name: "Java",
-    description:
-      "A mainstream programming language for enterprise application development, cross-platform and object-oriented.",
-    icon: "logos:java",
-    category: "backend",
-    level: "intermediate",
-    experience: { years: 2, months: 0 },
-    projects: ["enterprise-system", "microservices-api"],
-    color: "#ED8B00",
-  },
+  // {
+  //   id: "python",
+  //   name: "Python",
+  //   description:
+  //     "A general-purpose programming language suitable for web development, data analysis, machine learning, and more.",
+  //   icon: "logos:python",
+  //   category: "backend",
+  //   level: "intermediate",
+  //   experience: { years: 1, months: 10 },
+  //   color: "#3776AB",
+  // },
+  // {
+  //   id: "java",
+  //   name: "Java",
+  //   description:
+  //     "A mainstream programming language for enterprise application development, cross-platform and object-oriented.",
+  //   icon: "logos:java",
+  //   category: "backend",
+  //   level: "intermediate",
+  //   experience: { years: 2, months: 0 },
+  //   projects: ["enterprise-system", "microservices-api"],
+  //   color: "#ED8B00",
+  // },
   // {
   // 	id: "csharp",
   // 	name: "C#",
@@ -347,7 +366,6 @@ export const skillsData: Skill[] = [
   //   projects: ["blog-backend"],
   //   color: "#092E20",
   // },
-
   // // Database Skills
   // {
   // 	id: "mysql",
@@ -420,42 +438,41 @@ export const skillsData: Skill[] = [
   // 	projects: ["task-manager-app"],
   // 	color: "#FFCA28",
   // },
-
   // // Tools
-  {
-    id: "git",
-    name: "Git",
-    description:
-      "A distributed version control system, an essential tool for code management and team collaboration.",
-    icon: "logos:git-icon",
-    category: "tools",
-    level: "advanced",
-    experience: { years: 3, months: 0 },
-    color: "#F05032",
-  },
-  {
-    id: "vscode",
-    name: "VS Code",
-    description:
-      "A lightweight but powerful code editor with a rich plugin ecosystem.",
-    icon: "logos:visual-studio-code",
-    category: "tools",
-    level: "expert",
-    experience: { years: 3, months: 6 },
-    color: "#007ACC",
-  },
-  {
-    id: "webstorm",
-    name: "WebStorm",
-    description:
-      "A professional JavaScript and web development IDE developed by JetBrains with intelligent code assistance.",
-    icon: "logos:webstorm",
-    category: "tools",
-    level: "advanced",
-    experience: { years: 2, months: 0 },
-    projects: ["react-project", "vue-project"],
-    color: "#00CDD7",
-  },
+  // {
+  //   id: "git",
+  //   name: "Git",
+  //   description:
+  //     "A distributed version control system, an essential tool for code management and team collaboration.",
+  //   icon: "logos:git-icon",
+  //   category: "tools",
+  //   level: "advanced",
+  //   experience: { years: 3, months: 0 },
+  //   color: "#F05032",
+  // },
+  // {
+  //   id: "vscode",
+  //   name: "VS Code",
+  //   description:
+  //     "A lightweight but powerful code editor with a rich plugin ecosystem.",
+  //   icon: "logos:visual-studio-code",
+  //   category: "tools",
+  //   level: "expert",
+  //   experience: { years: 3, months: 6 },
+  //   color: "#007ACC",
+  // },
+  // {
+  //   id: "webstorm",
+  //   name: "WebStorm",
+  //   description:
+  //     "A professional JavaScript and web development IDE developed by JetBrains with intelligent code assistance.",
+  //   icon: "logos:webstorm",
+  //   category: "tools",
+  //   level: "advanced",
+  //   experience: { years: 2, months: 0 },
+  //   projects: ["react-project", "vue-project"],
+  //   color: "#00CDD7",
+  // },
   // {
   // 	id: "intellij",
   // 	name: "IntelliJ IDEA",
@@ -468,18 +485,18 @@ export const skillsData: Skill[] = [
   // 	projects: ["java-enterprise", "spring-boot-app"],
   // 	color: "#616161", // 更改为深灰色，避免纯黑色
   // },
-  {
-    id: "pycharm",
-    name: "PyCharm",
-    description:
-      "A professional Python IDE by JetBrains providing intelligent code analysis and debugging features.",
-    icon: "logos:pycharm",
-    category: "tools",
-    level: "intermediate",
-    experience: { years: 1, months: 4 },
-    projects: ["python-web-app", "data-analysis"],
-    color: "#21D789",
-  },
+  // {
+  //   id: "pycharm",
+  //   name: "PyCharm",
+  //   description:
+  //     "A professional Python IDE by JetBrains providing intelligent code analysis and debugging features.",
+  //   icon: "logos:pycharm",
+  //   category: "tools",
+  //   level: "intermediate",
+  //   experience: { years: 1, months: 4 },
+  //   projects: ["python-web-app", "data-analysis"],
+  //   color: "#21D789",
+  // },
   // {
   // 	id: "rider",
   // 	name: "Rider",
@@ -586,18 +603,18 @@ export const skillsData: Skill[] = [
   // 	projects: ["cloud-deployment", "serverless-app"],
   // 	color: "#FF9900",
   // },
-  {
-    id: "linux",
-    name: "Linux",
-    description:
-      "An open-source operating system, the preferred choice for server deployment and development environments.",
-    icon: "logos:linux-tux",
-    category: "tools",
-    level: "intermediate",
-    experience: { years: 2, months: 0 },
-    projects: ["server-management", "shell-scripting"],
-    color: "#FCC624",
-  },
+  // {
+  //   id: "linux",
+  //   name: "Linux",
+  //   description:
+  //     "An open-source operating system, the preferred choice for server deployment and development environments.",
+  //   icon: "logos:linux-tux",
+  //   category: "tools",
+  //   level: "intermediate",
+  //   experience: { years: 2, months: 0 },
+  //   projects: ["server-management", "shell-scripting"],
+  //   color: "#FCC624",
+  // },
   // {
   // 	id: "postman",
   // 	name: "Postman",
@@ -610,17 +627,17 @@ export const skillsData: Skill[] = [
   // 	projects: ["api-testing", "api-documentation"],
   // 	color: "#FF6C37",
   // },
-  {
-    id: "figma",
-    name: "Figma",
-    description:
-      "A collaborative interface design tool for UI/UX design and prototyping.",
-    icon: "logos:figma",
-    category: "tools",
-    level: "intermediate",
-    experience: { years: 1, months: 6 },
-    color: "#F24E1E",
-  },
+  // {
+  //   id: "figma",
+  //   name: "Figma",
+  //   description:
+  //     "A collaborative interface design tool for UI/UX design and prototyping.",
+  //   icon: "logos:figma",
+  //   category: "tools",
+  //   level: "intermediate",
+  //   experience: { years: 1, months: 6 },
+  //   color: "#F24E1E",
+  // },
   // {
   //   id: "photoshop",
   //   name: "Photoshop",
@@ -632,7 +649,6 @@ export const skillsData: Skill[] = [
   //   projects: ["ui-design", "image-processing"],
   //   color: "#31A8FF",
   // },
-
   // // Other Skills
   // {
   // 	id: "graphql",
