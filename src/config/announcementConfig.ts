@@ -2,8 +2,8 @@ import type { AnnouncementConfig } from "../types/config";
 
 // 公告栏配置
 export const announcementConfig: AnnouncementConfig = {
-  title: "LTW项目启动", // 公告标题，填空使用i18n字符串Key.announcement
-  content: "LinkTheWorld以一种意想不到的方式启动了", // 公告内容
+  title: "公告", // 公告标题，填空使用i18n字符串Key.announcement
+  content: "你好", // 公告内容
   closable: false, // 允许用户关闭公告
   link: {
     enable: true, // 启用链接
