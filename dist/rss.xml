@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Link The World</title><description>今天亦是和平的一天</description><link>https://mizuki.mysqil.com/</link><language>zh_CN</language><item><title>链接收集</title><link>https://mizuki.mysqil.com/posts/_public/links/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/_public/links/</guid><description>收集一些大家常用的链接</description><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;资源获取类&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Link The World</title><description>今天亦是和平的一天</description><link>https://mizuki.mysqil.com/</link><language>zh_CN</language><item><title>欢迎来到LTW</title><link>https://mizuki.mysqil.com/posts/frist_welcome/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/frist_welcome/</guid><description>介绍一下该站点以及其中的相关规则</description><pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;欢迎来到LTW&lt;/h1&gt;
+&lt;p&gt;LTW(LinkTheWorld)是一个以链接大家为核心的站点，旨在有一个比较统一且开放分享平台&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;请不要攻击这个网站，因为会直接挂掉&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;给LTW投稿：&lt;/h3&gt;
+&lt;p&gt;请前往&lt;a href=&quot;https://github.com/Sukabing/Mizuki-Content&quot;&gt;内容仓库&lt;/a&gt;并阅读相关文件以进行投稿，如果有不懂可以进🐧群讨论：1095151718&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;帮助LTW：&lt;/h3&gt;
+&lt;p&gt;我用的也是Mizuki的模板，所以一般也不需要什么帮助，但还是给了一个标题&lt;/p&gt;
+</content:encoded></item><item><title>链接收集</title><link>https://mizuki.mysqil.com/posts/_public/links/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/_public/links/</guid><description>收集一些大家常用的链接</description><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;资源获取类&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;%22https://www.bing.com/%22&quot;&gt;Bing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-</content:encoded></item><item><title>Astro 博客测试文章</title><link>https://mizuki.mysqil.com/posts/test/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/test/</guid><description>这是一篇用来测试 Content Collections 配置是否正常的文章。</description><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;欢迎使用 Astro&lt;/h1&gt;
-&lt;p&gt;这是文章的正文内容。&lt;/p&gt;
-&lt;p&gt;如果你能看到这篇文章，并且页面顶部显示了标题、标签和分类，说明你的 Content Collections 配置已经成功了！&lt;/p&gt;
-&lt;h2&gt;测试列表&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ Frontmatter 解析正常&lt;/li&gt;
-&lt;li&gt;✅ Schema 校验通过&lt;/li&gt;
-&lt;li&gt;✅ Markdown 渲染正常&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;祝你写作愉快！&lt;/p&gt;
 </content:encoded></item><item><title>LTW项目启动</title><link>https://mizuki.mysqil.com/posts/maevail/ltw%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/maevail/ltw%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/</guid><description>记录LTW项目启动</description><pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今天ltw项目正式启动了&lt;/p&gt;
 </content:encoded></item></channel></rss>

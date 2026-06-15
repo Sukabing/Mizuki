@@ -5,8 +5,30 @@
   <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
   <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://mizuki.mysqil.com/</id>
-  <updated>2026-06-15T12:27:30.193Z</updated>
+  <updated>2026-06-15T12:54:43.117Z</updated>
   <language>zh_CN</language>
+  <entry>
+    <title>欢迎来到LTW</title>
+    <link href="https://mizuki.mysqil.com/posts/frist_welcome/" rel="alternate" type="text/html"/>
+    <id>https://mizuki.mysqil.com/posts/frist_welcome/</id>
+    <published>2026-06-15T00:00:00.000Z</published>
+    <updated>2026-06-15T00:00:00.000Z</updated>
+    <summary>介绍一下该站点以及其中的相关规则</summary>
+    <content type="html"><![CDATA[<h1>欢迎来到LTW</h1>
+<p>LTW(LinkTheWorld)是一个以链接大家为核心的站点，旨在有一个比较统一且开放分享平台</p>
+<p><strong>请不要攻击这个网站，因为会直接挂掉</strong></p>
+<hr />
+<h3>给LTW投稿：</h3>
+<p>请前往<a href="https://github.com/Sukabing/Mizuki-Content">内容仓库</a>并阅读相关文件以进行投稿，如果有不懂可以进🐧群讨论：1095151718</p>
+<hr />
+<h3>帮助LTW：</h3>
+<p>我用的也是Mizuki的模板，所以一般也不需要什么帮助，但还是给了一个标题</p>
+]]></content>
+    <author>
+      <name>Sukabing</name>
+    </author>
+    <category term="重要"></category>
+  </entry>
   <entry>
     <title>链接收集</title>
     <link href="https://mizuki.mysqil.com/posts/_public/links/" rel="alternate" type="text/html"/>
@@ -24,29 +46,6 @@
       <name>Sukabing</name>
     </author>
     <category term="实用性"></category>
-  </entry>
-  <entry>
-    <title>Astro 博客测试文章</title>
-    <link href="https://mizuki.mysqil.com/posts/test/" rel="alternate" type="text/html"/>
-    <id>https://mizuki.mysqil.com/posts/test/</id>
-    <published>2026-06-10T00:00:00.000Z</published>
-    <updated>2026-06-10T00:00:00.000Z</updated>
-    <summary>这是一篇用来测试 Content Collections 配置是否正常的文章。</summary>
-    <content type="html"><![CDATA[<h1>欢迎使用 Astro</h1>
-<p>这是文章的正文内容。</p>
-<p>如果你能看到这篇文章，并且页面顶部显示了标题、标签和分类，说明你的 Content Collections 配置已经成功了！</p>
-<h2>测试列表</h2>
-<ul>
-<li>✅ Frontmatter 解析正常</li>
-<li>✅ Schema 校验通过</li>
-<li>✅ Markdown 渲染正常</li>
-</ul>
-<p>祝你写作愉快！</p>
-]]></content>
-    <author>
-      <name>Sukabing</name>
-    </author>
-    <category term="技术"></category>
   </entry>
   <entry>
     <title>LTW项目启动</title>
