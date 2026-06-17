@@ -1,8 +1,6 @@
-# 构建产物目录不执行换行符转换
-dist/** -text
-
 # 核心规则：所有文本文件自动检测，仓库内统一为LF
 * text=auto eol=lf
+
 # 明确指定文本文件类型（防止Git误判）
 *.md text
 *.ts text
@@ -26,6 +24,9 @@ dist/** -text
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
+
+# 构建产物目录：禁用换行符转换（覆盖上方所有文本规则）
+dist/** -text
 
 # 所有二进制文件不做任何转换（防止损坏）
 *.png binary
