@@ -5,7 +5,7 @@
   <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
   <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://mizuki.mysqil.com/</id>
-  <updated>2026-06-17T10:30:39.322Z</updated>
+  <updated>2026-06-18T01:20:13.179Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>欢迎来到LTW</title>
@@ -36,13 +36,62 @@
     <published>2026-06-10T00:00:00.000Z</published>
     <updated>2026-06-10T00:00:00.000Z</updated>
     <summary>收集一些大家常用的链接</summary>
-    <content type="html"><![CDATA[<h1>查询类</h1>
+    <content type="html"><![CDATA[<h1>一些教程</h1>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1bnt2zYEsy">Virtual Riot制作侧链</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SAEy69E1h">全息金属玻璃彩虹枪Color Chord（纯Serum2玩法）</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mUFbzGEKP">Ableton Live中的采样变形魔法</a></li>
+<li><a href="https://www.bilibili.com/video/BV1p1xKzTEb2">【FL和Live都适用的Glitch Bass制作方法】</a></li>
+<li><a href="https://www.bilibili.com/video/BV1CrEo6jEPA/">【【原创教程】Envelope Following，一种很少被提及的技术—教你如何为你的鼓组添加神秘纹理】 </a></li>
+<li><a href="https://www.bilibili.com/video/BV1qz42167aM/">【爵士琴谱系列】73首经典爵士钢琴精选 爵士大师演奏转录谱 电子谱制作中 后续等更新【合集】活页谱/和弦</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kr4y167og">【【Serum教程】如何制作Future Riddim的Lead音色】</a></li>
+<li><a href="https://www.jezzamon.com/fourier/zh-cn.html">琪露诺也能看懂的傅里叶变换</a></li>
+<li><a href="https://www.bilibili.com/video/BV1VALT6EEBT">简单但好听实用的空灵氛围小Pluck音色设计教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1w3546DEjC">熟肉「声音设计」如何合成逼真的水】</a></li>
+<li><a href="https://www.bilibili.com/video/BV13pRdB7EqB">78% nhato&amp;taishi-Veritas LEAD音色复刻</a></li>
+</ul>
+<h1>Up推荐：</h1>
+<ul>
+<li>live奇淫技巧（虽然有点像转载）<a href="https://space.bilibili.com/693487463">古牧KOMAKI</a></li>
+<li>我独自速通（游戏相关）<a href="https://www.youtube.com/@Brackeys">Brackeys</a></li>
+<li>若干教程和灵感集<a href="https://space.bilibili.com/332843957?spm_id_from=333.337.search-card.all.click">DTMwiki编曲中文社区</a></li>
+<li>轻松有趣的科技知识补全<a href="https://space.bilibili.com/67079745">玄离199</a></li>
+<li>我很喜欢里面的Reo系列，可以找灵感<a href="https://space.bilibili.com/1324948014">小林ヒトリ</a></li>
+</ul>
+<h1>工具类</h1>
 <ul>
 <li><a href="%22https://bchillmix.com/pages/lfo-rate-calculator%22">LFO查看sync和freq的对等值</a></li>
+<li><a href="https://3d-app-cos.pages.dev/">图片转3D</a></li>
+<li><a href="http://39.97.240.3/">斯波索宾和声自动连接器</a></li>
+<li><a href="https://controllertest.io/midi-tester/">Midi键盘测试工具</a></li>
 </ul>
 <h1>资源获取类</h1>
 <ul>
 <li><a href="%22https://www.bing.com/%22">Bing</a></li>
+<li><a href="https://livethemes.app/">Ableton Live主题站</a></li>
+<li><a href="https://civitai.com/">C站</a></li>
+<li><a href="https://civitai.red/">C站（red）</a></li>
+</ul>
+<h1>群友笔记相关</h1>
+<ul>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/QZyWwdz18iW0fGk4AGecBShnnRe">【ember】属和弦</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/TEobwvV35iygp3kzql7cEJ0AnEg">【ember】钢琴写作杂谈</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/RZgiwsb0Vi3yNkkgVqzcVOqOn7g">【ember】和弦的张力</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/VJb0wPlvxiOphdkQPVvc5716nAg">【ember】基础爵士和声</a></p>
+</li>
+<li>
+<p><a href="https://pcnl0cn8wjcz.feishu.cn/wiki/IMalwS5bai1MQYkkYVAcoVsSnAh">【缘语源】koan的笔记</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/Jl6Lw5YwgiCEwNk9Qr8cny0Zn7f">【ember】blende</a></p>
+</li>
 </ul>
 <hr />
 ]]></content>
