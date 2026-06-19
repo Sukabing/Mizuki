@@ -38,9 +38,16 @@ author: "Sukabing"
 - [斯波索宾和声自动连接器](http://39.97.240.3/)
 - [Midi键盘测试工具](https://controllertest.io/midi-tester/)
 
+# 搜索引擎类
+
+- [Bing](https://www.bing.com/)
+- [Yandex](https://yandex.com/)
+- [Google](https://www.google.com/)
+
 # 资源获取类
 
-- [Bing]("https://www.bing.com/")
+- [工程分享站](https://openalist.pinkiefm.com/data/%E5%B7%A5%E7%A8%8B%E5%88%86%E4%BA%AB)
+- [ApkMirror](https://www.apkmirror.com/)
 - [Ableton Live主题站](https://livethemes.app/)
 - [C站](https://civitai.com/)
 - [C站（red）](https://civitai.red/)
