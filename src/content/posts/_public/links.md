@@ -37,6 +37,9 @@ author: "Sukabing"
 - [图片转3D](https://3d-app-cos.pages.dev/)
 - [斯波索宾和声自动连接器](http://39.97.240.3/)
 - [Midi键盘测试工具](https://controllertest.io/midi-tester/)
+  > 可视化 MIDI 工具
+- [Vidi-Studio](https://app.dozingwhale.net/vidi-studio/)
+- [MEMNT](https://maok.us/playbox/projects/mvmnt/workspace)
 
 # 搜索引擎类
 
