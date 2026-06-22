@@ -51,6 +51,8 @@ author: "Sukabing"
 
 - [工程分享站](https://openalist.pinkiefm.com/data/%E5%B7%A5%E7%A8%8B%E5%88%86%E4%BA%AB)
   > 该站点为 **超级无敌的喵** 自建，旨在提供一个分享工程的平台，允许 **任何人** 上传工程 **但请不要上传病毒相关** 球球了，该站点的工程 **归上传者所有** ，任何人都不能未经作者允许进行类似于**牟利**的行为
+- [笔记共享站](https://outline.pinkiefm.com/s/welcome)
+  > 该站点为 **超级无敌的喵** 自建，旨在提供一个分享笔记的平台，账号可以通过引导注册
 - [ApkMirror](https://www.apkmirror.com/)
 - [Ableton Live主题站](https://livethemes.app/)
 - [C站](https://civitai.com/)
