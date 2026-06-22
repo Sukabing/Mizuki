@@ -22,6 +22,7 @@ author: "Sukabing"
 - [简单但好听实用的空灵氛围小Pluck音色设计教程](https://www.bilibili.com/video/BV1VALT6EEBT)
 - [熟肉「声音设计」如何合成逼真的水】](https://www.bilibili.com/video/BV1w3546DEjC)
 - [78% nhato&taishi-Veritas LEAD音色复刻](https://www.bilibili.com/video/BV13pRdB7EqB)
+- [【【和声】一个非常有趣的和弦进行思路！（连续转调）】](https://www.bilibili.com/video/BV1WtZAYeEAq?vd_source=5edace489743ddc09b7149e0b6319b57)
 
 # Up推荐：
 
@@ -44,6 +45,7 @@ author: "Sukabing"
 - [矢量图标灵感抽卡](https://amix-design.com/asoboad/tools/d-formula/)
 - [海报背景抽卡](https://www.gradientool.com/)
 - [旋律抽卡机我不行了](https://huggingface.co/spaces/utkucoban/NanoMaestro-Realtime?twclid=2ydiykrabcvxiq9nfeeevibsr)
+- [取色卡](https://color-card.hxiaostudio.cn/#screenshots)
 # 搜索引擎类
 
 - [Bing](https://www.bing.com/)
