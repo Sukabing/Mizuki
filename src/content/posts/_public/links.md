@@ -37,10 +37,13 @@ author: "Sukabing"
 - [图片转3D](https://3d-app-cos.pages.dev/)
 - [斯波索宾和声自动连接器](http://39.97.240.3/)
 - [Midi键盘测试工具](https://controllertest.io/midi-tester/)
-  > 可视化 MIDI 工具
 - [Vidi-Studio](https://app.dozingwhale.net/vidi-studio/)
+  > 可视化 MIDI 工具
 - [MEMNT](https://maok.us/playbox/projects/mvmnt/workspace)
-
+  > 可视化 MIDI 工具
+- [矢量图标灵感抽卡](https://amix-design.com/asoboad/tools/d-formula/)
+- [海报背景抽卡](https://www.gradientool.com/)
+- [旋律抽卡机我不行了](https://huggingface.co/spaces/utkucoban/NanoMaestro-Realtime?twclid=2ydiykrabcvxiq9nfeeevibsr)
 # 搜索引擎类
 
 - [Bing](https://www.bing.com/)
