@@ -46,6 +46,10 @@ author: "Sukabing"
 - [海报背景抽卡](https://www.gradientool.com/)
 - [旋律抽卡机我不行了](https://huggingface.co/spaces/utkucoban/NanoMaestro-Realtime?twclid=2ydiykrabcvxiq9nfeeevibsr)
 - [取色卡](https://color-card.hxiaostudio.cn/#screenshots)
+- [渐变背景卡](https://colir.space/app/)
+- [抖动、ASCII 和半色调效果抽卡(核曲绘抽卡机)](https://app.ditther.com/)
+- [X上的日推设计](https://bestdesignsonx.com/)
+- 
 # 搜索引擎类
 
 - [Bing](https://www.bing.com/)
@@ -55,7 +59,7 @@ author: "Sukabing"
 # 资源获取类
 
 - [工程分享站](https://openalist.pinkiefm.com/data/%E5%B7%A5%E7%A8%8B%E5%88%86%E4%BA%AB)
-  > 该站点为 **超级无敌的喵** 自建，旨在提供一个分享工程的平台，允许 **任何人** 上传工程 **但请不要上传病毒相关** 球球了，该站点的工程 **归上传者所有** ，任何人都不能未经作者允许进行类似于**牟利**的行为
+  > 该站点为 **超级无敌的喵** 自建，旨在提供一个分享工程的平台，允许 **任何人** 上传工程 **但请不要上传病毒相关** 球球了，该站点的工程 **归上传者所有** ，任何人都不能未经作者允许进行类似于**牟利**的行为。**_`上传需要询问作者申请一个gitlab账号`_**
 - [笔记共享站](https://outline.pinkiefm.com/s/welcome)
   > 该站点为 **超级无敌的喵** 自建，旨在提供一个分享笔记的平台，账号可以通过引导注册
 - [ApkMirror](https://www.apkmirror.com/)
