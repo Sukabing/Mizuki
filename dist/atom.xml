@@ -5,7 +5,7 @@
   <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
   <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://mizuki.mysqil.com/</id>
-  <updated>2026-06-22T10:41:16.720Z</updated>
+  <updated>2026-06-29T04:16:52.515Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>欢迎来到LTW</title>
@@ -85,6 +85,10 @@
 <li><a href="https://www.gradientool.com/">海报背景抽卡</a></li>
 <li><a href="https://huggingface.co/spaces/utkucoban/NanoMaestro-Realtime?twclid=2ydiykrabcvxiq9nfeeevibsr">旋律抽卡机我不行了</a></li>
 <li><a href="https://color-card.hxiaostudio.cn/#screenshots">取色卡</a></li>
+<li><a href="https://colir.space/app/">渐变背景卡</a></li>
+<li><a href="https://app.ditther.com/">抖动、ASCII 和半色调效果抽卡(核曲绘抽卡机)</a></li>
+<li><a href="https://bestdesignsonx.com/">X上的日推设计</a></li>
+<li></li>
 </ul>
 <h1>搜索引擎类</h1>
 <ul>
@@ -96,7 +100,7 @@
 <ul>
 <li><a href="https://openalist.pinkiefm.com/data/%E5%B7%A5%E7%A8%8B%E5%88%86%E4%BA%AB">工程分享站</a>
 <blockquote>
-<p>该站点为 <strong>超级无敌的喵</strong> 自建，旨在提供一个分享工程的平台，允许 <strong>任何人</strong> 上传工程 <strong>但请不要上传病毒相关</strong> 球球了，该站点的工程 <strong>归上传者所有</strong> ，任何人都不能未经作者允许进行类似于<strong>牟利</strong>的行为</p>
+<p>该站点为 <strong>超级无敌的喵</strong> 自建，旨在提供一个分享工程的平台，允许 <strong>任何人</strong> 上传工程 <strong>但请不要上传病毒相关</strong> 球球了，该站点的工程 <strong>归上传者所有</strong> ，任何人都不能未经作者允许进行类似于<strong>牟利</strong>的行为。<strong><em><code>上传需要询问作者申请一个gitlab账号</code></em></strong></p>
 </blockquote>
 </li>
 <li><a href="https://outline.pinkiefm.com/s/welcome">笔记共享站</a>
