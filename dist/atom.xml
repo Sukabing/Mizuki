@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Link The World</title>
+  <subtitle>今天亦是和平的一天</subtitle>
+  <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
+  <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://mizuki.mysqil.com/</id>
+  <updated>2026-07-05T10:34:43.667Z</updated>
+  <language>zh_CN</language>
+  <entry>
+    <title>欢迎来到LTW</title>
+    <link href="https://mizuki.mysqil.com/posts/frist_welcome/" rel="alternate" type="text/html"/>
+    <id>https://mizuki.mysqil.com/posts/frist_welcome/</id>
+    <published>2026-06-15T00:00:00.000Z</published>
+    <updated>2026-06-15T00:00:00.000Z</updated>
+    <summary>介绍一下该站点以及其中的相关规则</summary>
+    <content type="html"><![CDATA[<h1>欢迎来到LTW</h1>
+<p>LTW(LinkTheWorld)是一个以链接大家为核心的站点，旨在有一个比较统一且开放分享平台</p>
+<p><strong>请不要攻击这个网站，因为会直接挂掉</strong></p>
+<hr />
+<h3>给LTW投稿：</h3>
+<blockquote>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1AUAezbEW7/">如何下载git（windows）</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Qp4y1T797/">如何通过PR提交文档</a></li>
+</ul>
+</blockquote>
+<p>请前往<a href="https://github.com/Sukabing/Mizuki-Content">内容仓库</a>并阅读相关文件以进行投稿，如果有不懂可以进🐧群讨论：1095151718</p>
+<hr />
+<h3>帮助LTW：</h3>
+<p>我用的也是Mizuki的模板，所以一般也不需要什么帮助，但还是给了一个标题</p>
+]]></content>
+    <author>
+      <name>Sukabing</name>
+    </author>
+    <category term="重要"></category>
+  </entry>
+  <entry>
+    <title>链接收集</title>
+    <link href="https://mizuki.mysqil.com/posts/_public/links/" rel="alternate" type="text/html"/>
+    <id>https://mizuki.mysqil.com/posts/_public/links/</id>
+    <published>2026-06-10T00:00:00.000Z</published>
+    <updated>2026-06-10T00:00:00.000Z</updated>
+    <summary>收集一些大家常用的链接</summary>
+    <content type="html"><![CDATA[<h1>一些教程</h1>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1bnt2zYEsy">Virtual Riot制作侧链</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SAEy69E1h">全息金属玻璃彩虹枪Color Chord（纯Serum2玩法）</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mUFbzGEKP">Ableton Live中的采样变形魔法</a></li>
+<li><a href="https://www.bilibili.com/video/BV1p1xKzTEb2">【FL和Live都适用的Glitch Bass制作方法】</a></li>
+<li><a href="https://www.bilibili.com/video/BV1CrEo6jEPA/">【【原创教程】Envelope Following，一种很少被提及的技术—教你如何为你的鼓组添加神秘纹理】 </a></li>
+<li><a href="https://www.bilibili.com/video/BV1qz42167aM/">【爵士琴谱系列】73首经典爵士钢琴精选 爵士大师演奏转录谱 电子谱制作中 后续等更新【合集】活页谱/和弦</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kr4y167og">【【Serum教程】如何制作Future Riddim的Lead音色】</a></li>
+<li><a href="https://www.jezzamon.com/fourier/zh-cn.html">琪露诺也能看懂的傅里叶变换</a></li>
+<li><a href="https://www.bilibili.com/video/BV1VALT6EEBT">简单但好听实用的空灵氛围小Pluck音色设计教程</a></li>
+<li><a href="https://www.bilibili.com/video/BV1w3546DEjC">熟肉「声音设计」如何合成逼真的水】</a></li>
+<li><a href="https://www.bilibili.com/video/BV13pRdB7EqB">78% nhato&amp;taishi-Veritas LEAD音色复刻</a></li>
+<li><a href="https://www.bilibili.com/video/BV1WtZAYeEAq?vd_source=5edace489743ddc09b7149e0b6319b57">【【和声】一个非常有趣的和弦进行思路！（连续转调）】</a></li>
+</ul>
+<h1>Up推荐：</h1>
+<ul>
+<li>live奇淫技巧（虽然有点像转载）<a href="https://space.bilibili.com/693487463">古牧KOMAKI</a></li>
+<li>我独自速通（游戏相关）<a href="https://www.youtube.com/@Brackeys">Brackeys</a></li>
+<li>若干教程和灵感集<a href="https://space.bilibili.com/332843957?spm_id_from=333.337.search-card.all.click">DTMwiki编曲中文社区</a></li>
+<li>轻松有趣的科技知识补全<a href="https://space.bilibili.com/67079745">玄离199</a></li>
+<li>我很喜欢里面的Reo系列，可以找灵感<a href="https://space.bilibili.com/1324948014">小林ヒトリ</a></li>
+</ul>
+<h1>插件推荐</h1>
+<ul>
+<li><a href="https://gitee.com/table-luz/stargazer/releases">开源免费劲劲立体声插件</a></li>
+</ul>
+<h1>工具类</h1>
+<ul>
+<li><a href="%22https://bchillmix.com/pages/lfo-rate-calculator%22">LFO查看sync和freq的对等值</a></li>
+<li><a href="https://3d-app-cos.pages.dev/">图片转3D</a></li>
+<li><a href="http://39.97.240.3/">斯波索宾和声自动连接器</a></li>
+<li><a href="https://controllertest.io/midi-tester/">Midi键盘测试工具</a></li>
+<li><a href="https://app.dozingwhale.net/vidi-studio/">Vidi-Studio</a>
+<blockquote>
+<p>可视化 MIDI 工具</p>
+</blockquote>
+</li>
+<li><a href="https://maok.us/playbox/projects/mvmnt/workspace">MEMNT</a>
+<blockquote>
+<p>可视化 MIDI 工具</p>
+</blockquote>
+</li>
+<li><a href="https://amix-design.com/asoboad/tools/d-formula/">矢量图标灵感抽卡</a></li>
+<li><a href="https://www.gradientool.com/">海报背景抽卡</a></li>
+<li><a href="https://huggingface.co/spaces/utkucoban/NanoMaestro-Realtime?twclid=2ydiykrabcvxiq9nfeeevibsr">旋律抽卡机我不行了</a></li>
+<li><a href="https://color-card.hxiaostudio.cn/#screenshots">取色卡</a></li>
+<li><a href="https://colir.space/app/">渐变背景卡</a></li>
+<li><a href="https://app.ditther.com/">抖动、ASCII 和半色调效果抽卡(核曲绘抽卡机)</a></li>
+<li><a href="https://bestdesignsonx.com/">X上的日推设计</a></li>
+<li><a href="https://ray.so/">更好的代码块展示</a></li>
+<li><a href="https://excalidraw.com/">手绘风格图标制作</a></li>
+<li><a href="https://fast.com/zh/cn/">看网速</a></li>
+<li><a href="https://www.tldraw.com/">无限白板浏览器版</a></li>
+<li><a href="https://uta.utairo.work/schedule-maker/">更vtb的日程表安排编辑器</a></li>
+<li></li>
+</ul>
+<h1>搜索引擎类</h1>
+<ul>
+<li><a href="https://www.bing.com/">Bing</a></li>
+<li><a href="https://yandex.com/">Yandex</a></li>
+<li><a href="https://www.google.com/">Google</a></li>
+</ul>
+<h1>资源获取类</h1>
+<ul>
+<li><a href="https://openalist.pinkiefm.com/data/%E5%B7%A5%E7%A8%8B%E5%88%86%E4%BA%AB">工程分享站</a>
+<blockquote>
+<p>该站点为 <strong>超级无敌的喵</strong> 自建，旨在提供一个分享工程的平台，允许 <strong>任何人</strong> 上传工程 <strong>但请不要上传病毒相关</strong> 球球了，该站点的工程 <strong>归上传者所有</strong> ，任何人都不能未经作者允许进行类似于<strong>牟利</strong>的行为。<strong><em><code>上传需要询问作者申请一个gitlab账号</code></em></strong></p>
+</blockquote>
+</li>
+<li><a href="https://outline.pinkiefm.com/s/welcome">笔记共享站</a>
+<blockquote>
+<p>该站点为 <strong>超级无敌的喵</strong> 自建，旨在提供一个分享笔记的平台，账号可以通过引导注册</p>
+</blockquote>
+</li>
+<li><a href="https://www.apkmirror.com/">ApkMirror</a></li>
+<li><a href="https://livethemes.app/">Ableton Live主题站</a></li>
+<li><a href="https://civitai.com/">C站</a></li>
+<li><a href="https://civitai.red/">C站（red）</a></li>
+<li><a href="https://alletis.com/">Alletis~1.EXE</a>
+<blockquote>
+<p>该站点为Alletis的个人站点</p>
+</blockquote>
+</li>
+</ul>
+<h1>群友笔记相关</h1>
+<ul>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/QZyWwdz18iW0fGk4AGecBShnnRe">【ember】属和弦</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/TEobwvV35iygp3kzql7cEJ0AnEg">【ember】钢琴写作杂谈</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/RZgiwsb0Vi3yNkkgVqzcVOqOn7g">【ember】和弦的张力</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/VJb0wPlvxiOphdkQPVvc5716nAg">【ember】基础爵士和声</a></p>
+</li>
+<li>
+<p><a href="https://pcnl0cn8wjcz.feishu.cn/wiki/IMalwS5bai1MQYkkYVAcoVsSnAh">【缘语源】koan的笔记</a></p>
+</li>
+<li>
+<p><a href="https://dwn2vvx69yd.feishu.cn/wiki/Jl6Lw5YwgiCEwNk9Qr8cny0Zn7f">【ember】blende</a></p>
+</li>
+</ul>
+<hr />
+]]></content>
+    <author>
+      <name>Sukabing</name>
+    </author>
+    <category term="实用性"></category>
+  </entry>
+  <entry>
+    <title>LTW项目启动</title>
+    <link href="https://mizuki.mysqil.com/posts/maevail/ltw%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/" rel="alternate" type="text/html"/>
+    <id>https://mizuki.mysqil.com/posts/maevail/ltw%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8/</id>
+    <published>2026-04-05T00:00:00.000Z</published>
+    <updated>2026-04-05T00:00:00.000Z</updated>
+    <summary>记录LTW项目启动</summary>
+    <content type="html"><![CDATA[<p>今天ltw项目正式启动了</p>
+]]></content>
+    <author>
+      <name>Sukabing</name>
+    </author>
+    <category term="纪念日"></category>
+  </entry>
+</feed>
