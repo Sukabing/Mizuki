@@ -1,1 +1,0 @@
-const e={enable:!0,showFloatingPlayer:!0,floatingEntryMode:"fab",mode:"meting",meting_api:"https://meting.jinghuashang.cn/?type=:type&id=:id",id:"2003672301",server:"netease",type:"playlist"};export{e as m};
