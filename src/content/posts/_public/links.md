@@ -23,7 +23,8 @@ author: "Sukabing"
 - [熟肉「声音设计」如何合成逼真的水】](https://www.bilibili.com/video/BV1w3546DEjC)
 - [78% nhato&taishi-Veritas LEAD音色复刻](https://www.bilibili.com/video/BV13pRdB7EqB)
 - [【【和声】一个非常有趣的和弦进行思路！（连续转调）】](https://www.bilibili.com/video/BV1WtZAYeEAq?vd_source=5edace489743ddc09b7149e0b6319b57)
-
+- [VR Delay 奇淫技巧](https://youtu.be/5Bmnm5uOOvU?si=eHeFMLo-f65uMZJF)
+- [【新新新新新新的立体声低音扩展方法】](https://www.bilibili.com/video/BV16GMb6KEnp)
 # Up推荐：
 
 - live奇淫技巧（虽然有点像转载）[古牧KOMAKI](https://space.bilibili.com/693487463)
