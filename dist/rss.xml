@@ -70,8 +70,11 @@
 &lt;li&gt;&lt;a href=&quot;https://fast.com/zh/cn/&quot;&gt;看网速&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.tldraw.com/&quot;&gt;无限白板浏览器版&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://uta.utairo.work/schedule-maker/&quot;&gt;更vtb的日程表安排编辑器&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nosignups.net/&quot;&gt;不用注册的工具库&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;比方说里面的在线ffmpeg，尽可能的将操作给拆解出来了，简单易懂，不用部署：https://ffmpegwasm.netlify.app/playground/&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1&gt;搜索引擎类&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.bing.com/&quot;&gt;Bing&lt;/a&gt;&lt;/li&gt;

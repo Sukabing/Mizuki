@@ -5,7 +5,7 @@
   <link href="https://mizuki.mysqil.com/" rel="alternate" type="text/html"/>
   <link href="https://mizuki.mysqil.com/atom.xml" rel="self" type="application/atom+xml"/>
   <id>https://mizuki.mysqil.com/</id>
-  <updated>2026-07-12T02:56:52.553Z</updated>
+  <updated>2026-07-23T07:26:45.760Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>欢迎来到LTW</title>
@@ -99,8 +99,11 @@
 <li><a href="https://fast.com/zh/cn/">看网速</a></li>
 <li><a href="https://www.tldraw.com/">无限白板浏览器版</a></li>
 <li><a href="https://uta.utairo.work/schedule-maker/">更vtb的日程表安排编辑器</a></li>
-<li></li>
+<li><a href="https://nosignups.net/">不用注册的工具库</a></li>
 </ul>
+<blockquote>
+<p>比方说里面的在线ffmpeg，尽可能的将操作给拆解出来了，简单易懂，不用部署：https://ffmpegwasm.netlify.app/playground/</p>
+</blockquote>
 <h1>搜索引擎类</h1>
 <ul>
 <li><a href="https://www.bing.com/">Bing</a></li>
