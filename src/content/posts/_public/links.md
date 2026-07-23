@@ -58,7 +58,8 @@ author: "Sukabing"
 - [看网速](https://fast.com/zh/cn/)
 - [无限白板浏览器版](https://www.tldraw.com/)
 - [更vtb的日程表安排编辑器](https://uta.utairo.work/schedule-maker/)
-- 
+- [不用注册的工具库](https://nosignups.net/)
+ > 比方说里面的在线ffmpeg，尽可能的将操作给拆解出来了，简单易懂，不用部署：https://ffmpegwasm.netlify.app/playground/
 # 搜索引擎类
 
 - [Bing](https://www.bing.com/)
